@@ -1,0 +1,80 @@
+{
+    "Profile": {
+      "name": "Jay Maru",
+      "label": "Senior Software Engineer",
+      "email": "jaymaru333.jm@gmail.com",
+      "Birth Date": "20-10-1996",
+      "phone": "+91-7795635558",
+      "summary": "Successful Senior Systems Engineer offering 4 years of experience in demanding environments focused on producing cutting-edge systems for IT industry. Skilled in directing development with creative and performance-oriented approach. Well-organized and customer-focused with proven skills in project management and team leadership.",
+      "location": {
+        "address": "113, 5th Cross, Basaveshwaranagar",
+        "postalCode": "560079",
+        "city": "Bangalore",
+        "country": "India"
+      },
+      "Social Media": [
+        {
+          "Linkedin": "https://www.linkedin.com/in/jay-maru-932113120/",
+          "username": "Jay Maru"
+        }
+      ]
+    },
+    "Work Experience":[
+      {
+        "company": "Tech Mahindra",
+        "position": "Senior Software Engineer",
+        "startDate": "02-02-2022",
+        "endDate": " Currently working",
+        "summary": "Backend developer working on skills with java, GCP, mysql, springBoot"
+      },
+      {
+        "company": "Infosys",
+        "position": "Senior Systems Engineer",
+        "startDate": "03-09-2018",
+        "endDate": "10-01-2022",
+        "summary": "Backend developer working on skills with java, GCP, mysql."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Don Bosco",
+        "area": "Bachelor of Engineering",
+        "studyType": "Computer Science",
+        "startDate": "2014-2018",
+        "Percentiles": "69.30"
+      },
+      {
+        "institution": "Carmel College",
+        "area": "XII",
+        "studyType": "Pre-University",
+        "startDate": "2012-2014",
+        "Percentiles": "88"
+      },
+      {
+        "institution": "FLorence High School",
+        "area": "X",
+        "studyType": "Schooling",
+        "startDate": "2000-2012",
+        "Percentiles": "84.30"
+      }
+    ],
+    "skills": [
+      {
+        "Coding": "C, C++, java, Javascript, python, sql, HTML5, CSS3, NodeJS, Apache and Tomcat, Linux adminstration",
+        "level": "3",
+        "Additional knowledge": "Devops with GCP and AWS along with java, python and javascript"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English, Hindi, Gujarati, Kannada ",
+        "fluency": "Read, write"
+      }
+    ],
+    "Hobbies": [
+      {
+        "Sports and leisure": "Cricket, Badminton, cycling, Biking"
+        
+      }
+    ]
+  }
